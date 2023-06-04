@@ -127,13 +127,9 @@
 | 술내음         | 사용자 맞춤 전통주 추천 서비스                   | [github](https://github.com/SSAFY707/SULNAEEUM)                                    |
 | Whizzle        | 개인 맞춤형 위스키 추천 서비스                   | [github](https://github.com/JunHyxxn/Whizzle)                                      |
 | TedBear        | TED 강연 영상 추천 서비스                        | [github](https://github.com/HMM-TERESTING/tedbear)                                 |
-| Whizzle        | 개인 맞춤형 위스키 추천 서비스                   | [github](https://github.com/JunHyxxn/Whizzle)                                      |
-| HE:RE          | NFT 헌혈증서 플랫폼                              | [github](https://github.com/Leeh9/HERE)                                            |
 | 똑켓           | 블록체인 NFT기반 티켓 서비스                     | [github](https://github.com/HyeonIn/ttocket)                                       |
 | Co-cook        | AI Cooking Copilot                               | [github](https://github.com/ysu6691/cocook)                                        |
-| 싸피물산       |                                                  | [github](https://github.com/Isak-toast/SSAFY-CNT)                                  |
 | O't MZ(옷엠지) | AI를 활용한 패션 스타일을 추천 서비스            | [github](https://github.com/ecofriendlyusername/ssafyotmz)                         |
-| Co-cook        | AI Cooking Copilot                               | [github](https://github.com/ysu6691/cocook)                                        |
 | Returnz        | 게임형 주식 교육 서비스                          | [github](https://github.com/ManduTheCat/returnz)                                   |
 | OMM            | 블록체인 기반 소개팅 웹 사이트💖                 | [github](https://github.com/208Youth/OMM)                                          |
 | 모이다         | 야생동물과의 상생을 위한 기부를 받고 봉사를 신청 | [github](https://github.com/congmaru/Moida)                                        |
@@ -161,10 +157,8 @@
 
 | Title          | Description                                                      | Link                                                      |
 | -------------- | ---------------------------------------------------------------- | --------------------------------------------------------- |
-| 술의 민족      | 술의 민족                                                        | [github](https://github.com/GongHanul/YourDrinkingBuddy)  |
 | Color the Rock | Color the Rock                                                   | [github](https://github.com/Color-the-rock/colortherock)  |
 | 마실까말까     | 마실까말까                                                       | [github](https://github.com/chloe73/cadang)               |
-| LIVE 부동산    | 누구나 쉽게 집을 구할 수 있는 One-Stop 완전 비대면 부동산 서비스 | [github](https://github.com/mnb3559/Live)                 |
 | PLAN!T         | 실시간 지도공유, 화상통화 여행계획 플랫폼                        | [github](https://github.com/Gukss/planit_upstream_mirror) |
 | Play Ground    | 소셜 운동 매칭 서비스                                            | [github](https://github.com/skylove308/playground)        |
 | Zzalu          | 💜Z세대를 위해 새롭게 gif 로 소통하는 SNS 서비스💜               | [github](https://github.com/GeumBi-Hong/Zzalu)            |
