@@ -83,7 +83,6 @@
 | RepoMon🐱            | 레포지토리를 대표하는 캐릭터, 카드를 만들어 주는 서비스              | [github](https://github.com/ddings73/Repomon)                |
 | 📈모두의 주식        | 가상 주식 게임                                                       | [github](https://github.com/Isanghada/ModooStock)            |
 
-| ALGOPAT | cigma | [github]() |
 
 ### 그 외
 
@@ -119,7 +118,6 @@
 
 | Title          | Description                                      | Link                                                                               |
 | -------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| 머무르다       | 행성과 장미꽃 nft p2p 서비스                     | [github](https://github.com/v7153623/Stay-in-your-B612), [site](https://b612.shop) |
 | 겜마카세       | 빅데이터를 기반으로 스팀 게임 추천 서비스        | [github](https://github.com/DooDoo3804/Gamemakase)                                 |
 | 디몽           | 아동 지능 발달을 위한 공룡 학습 어플리케이션     | [github](https://github.com/zer0eat/DiMong)                                        |
 | Bloomer        | 텍스트 기반 감정 분석 일기 서비스                | [github](https://github.com/bohodays/Bloomer)                                      |
