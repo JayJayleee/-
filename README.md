@@ -27,13 +27,11 @@
 
 ## 목차
 
- - **[8기 자율프로젝트 ](#free_8)**
- - **[8기 특화프로젝트 ](#special_8)**
- - **[8기 공통프로젝트 ](#common_8)**
- - **[7기 특화프로젝트 ](#special_7)**
- - **[7기 공통프로젝트 ](#common_7)**
-
-
+- **[8기 자율프로젝트 ](#free_8)**
+- **[8기 특화프로젝트 ](#special_8)**
+- **[8기 공통프로젝트 ](#common_8)**
+- **[7기 특화프로젝트 ](#special_7)**
+- **[7기 공통프로젝트 ](#common_7)**
 
 <h1 align="center" id='free_8'>8기 자율프로젝트</h1>
 
@@ -43,22 +41,53 @@
 
 ### 최우수 프로젝트🥇
 
-| Title         | Description                                | Link                                                  |
-| ------------- | ------------------------------------------ | ----------------------------------------------------- |
-
-
+| Title          | Description                                              | Link                                                       |
+| -------------- | -------------------------------------------------------- | ---------------------------------------------------------- |
+| PayMong        | 🥇 삼성 청년 SW 아카데미 8기 프로젝트 전국 1등 🥇        | [github](https://github.com/rudgns9334/Paymong)            |
+| Groot          | 초보 홈 가드너를 위한 서비스                             | [github](https://github.com/seoda0000/Groot)               |
+| SSAFAST        | 설계ㆍ테스트 단계에서의 더 높은 개발자 경험              | [github](https://github.com/HanKyeon/SSAFAST)              |
+| 📵VoicePassing | AI 분석 기반 실시간 음성 분석을 통한 보이스 피싱 감지 앱 | [github](https://github.com/HWANGSAN/ssafy_8_voicepassing) |
+| POOM           | 유기견 후원 및 NFT 발급 서비스                           | [github](https://github.com/sw0610/POOM)                   |
+| dubEng         | 영어로 연기하며 스피킹을 배우는 서비스                   | [github](https://github.com/dubEng/dubEng)                 |
+| 하팅♥️         | 본격 두근두근 마음 전달 프로젝트♥️                       | [github](https://github.com/Youngmook-Lim/Heart-ing)       |
+| GreenCherry    | 낭비되는 음식을 줄일 수 있는 마감할인 서비스             | [github](https://github.com/0takkk/GreenCherry)            |
+| ICO            | 알파세대를 위한 체험형 경제 교육 플랫폼                  | [github](https://github.com/ico-d103/ico)                  |
+| 언제와?        | 약속 관리 모바일 앱                                      | [github](https://github.com/nyoungnyoung/DLT)              |
+| zippyziggy     | ChatGPT 프롬프트 제작 및 공유 플랫폼                     | [github](https://github.com/bbookng/zippyziggy)            |
 
 ---
 
 ### 우수 프로젝트 🥈
 
-| Title          | Description                                      | Link                                                       |
-| -------------- | ------------------------------------------------ | ---------------------------------------------------------- |
+| Title                | Description                                                          | Link                                                         |
+| -------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------ |
+| HourGoods            | 실시간 위치 기반 콘서트 굿즈 거래 플랫폼                             | [github](https://github.com/HourGoods/HourGoods)             |
+| 🐣 도담도담 🐤       | 모두를 위한 유치원 일기장                                            | [github](https://github.com/sweaterman/Dodamdodam)           |
+| 🌙 If I Die Tomorrow | 웰다잉을 쉽게 준비할 수 있도록 도와주는 서비스                       | [github](https://github.com/brianpsw/If-I-die-tomorrow)      |
+| 개발새발             | 개발자 지망생과 신입 개발자를 위한 프로젝트 공유 및 코드 리뷰 사이트 | [github](https://github.com/RoughCodeCody/RoughCode-back)    |
+| 디플로이지           | 개발자들을 위한 자동 배포 솔루션                                     | [github](https://github.com/2kjin/DeployZ)                   |
+| Rollwrite            | AI가 매일 질문해주는 롤링페이퍼                                      | [github](https://github.com/Team-GaBoJaGo/Rollwrite)         |
+| cigma                | cigma                                                                | [github](https://github.com/cigmacode/cigma-ide)             |
+| ALGOPAT              | 알고리즘 소스코드 효율성 분석                                        | [github](https://github.com/dldksco/algopat)                 |
+| LuckQuiz             | 레크레이션용 게임 기반 퀴즈 플랫폼                                   | [github](https://github.com/YEJIN012/LuckQuiz)               |
+| CODE BAMBOO          | 프런트엔드 코드 커뮤니티                                             | [github](https://github.com/irang6v6/CodeBamboo)             |
+| PUMG                 | Unity 엔진 기반의 메타버스 플랫폼                                    | [github](https://github.com/PUMG-MetaVerse/PUMG)             |
+| 비워줄게 냉장고      | 올인원 냉장고 관리 서비스                                            | [github](https://github.com/Begachu/beneang)                 |
+| 우아한               | 우리 아이 한글교육                                                   | [github](https://github.com/heesootory/wooahan)              |
+| SSAFY-STAR           | SSAFY인들을 위한 인포메이션&커뮤니케이션                             | [github](https://github.com/dltkdgkr123/SSAFY-STAR)          |
+| 니땅내땅             | 야외 활동, 이웃과의 소통을 유도하는 땅따먹기 게임                    | [github](https://github.com/ddang-ddang/front-end)           |
+| See You Again        | 안전 거래 장소를 추천 해주는 물품 대여 서비스                        | [github](https://github.com/Project-SeeYouAgain/SeeYouAgain) |
+| Alarmony             | 그룹 알람 어플                                                       | [github](https://github.com/tayo5712/Alarmony)               |
+| 🌛마중⭐             | 당신의 안전한 귀가                                                   | [github](https://github.com/jina5/majoong)                   |
+| ✈TTr!P               | 편리한 여행 동행 모집 모바일 서비스                                  | [github](https://github.com/WonilLee211/TTrIP-project)       |
+| RepoMon🐱            | 레포지토리를 대표하는 캐릭터, 카드를 만들어 주는 서비스              | [github](https://github.com/ddings73/Repomon)                |
+| 📈모두의 주식        | 가상 주식 게임                                                       | [github](https://github.com/Isanghada/ModooStock)            |
 
-
+| ALGOPAT | cigma | [github]() |
 
 ### 그 외
-[니, 누꼬?](https://github.com/Ninucco), 
+
+[니, 누꼬?](https://github.com/Ninucco),
 
 <p align="right">
 <a href="#목차">
@@ -88,32 +117,33 @@
 
 ### 우수 프로젝트 🥈
 
-| Title          | Description                                      | Link                                                       |
-| -------------- | ------------------------------------------------ | ---------------------------------------------------------- |
-| 머무르다 | 행성과 장미꽃 nft p2p 서비스 | [github](https://github.com/v7153623/Stay-in-your-B612), [site](https://b612.shop) |
-| 겜마카세       | 빅데이터를 기반으로 스팀 게임 추천 서비스        | [github](https://github.com/DooDoo3804/Gamemakase)         |
-| 디몽           | 아동 지능 발달을 위한 공룡 학습 어플리케이션     | [github](https://github.com/zer0eat/DiMong)                |
-| Bloomer        | 텍스트 기반 감정 분석 일기 서비스                | [github](https://github.com/bohodays/Bloomer)              |
-| TooNBTI        | 웹툰 취향 분석 테스트                            | [github](https://github.com/No88888888/ToonBTI)            |
-| Gotcha!        | 사진 1장으로 완성하는 AI 게임 서비스             | [github](https://github.com/GotchaAIGame/Gotcha)           |
-| doEng          | 인공지능을 통한 영어 체험학습                    | [github](https://github.com/Byongho96/doEng)               |
-| 술내음         | 사용자 맞춤 전통주 추천 서비스                   | [github](https://github.com/SSAFY707/SULNAEEUM)            |
-| Whizzle        | 개인 맞춤형 위스키 추천 서비스                   | [github](https://github.com/JunHyxxn/Whizzle)              |
-| TedBear        | TED 강연 영상 추천 서비스                        | [github](https://github.com/HMM-TERESTING/tedbear)         |
-| Whizzle        | 개인 맞춤형 위스키 추천 서비스                   | [github](https://github.com/JunHyxxn/Whizzle)              |
-| HE:RE          | NFT 헌혈증서 플랫폼                              | [github](https://github.com/Leeh9/HERE)                    |
-| 똑켓           | 블록체인 NFT기반 티켓 서비스                     | [github](https://github.com/HyeonIn/ttocket)               |
-| Co-cook        | AI Cooking Copilot                               | [github](https://github.com/ysu6691/cocook)                |
-| 싸피물산       |                                                  | [github](https://github.com/Isak-toast/SSAFY-CNT)          |
-| O't MZ(옷엠지) | AI를 활용한 패션 스타일을 추천 서비스            | [github](https://github.com/ecofriendlyusername/ssafyotmz) |
-| Co-cook        | AI Cooking Copilot                               | [github](https://github.com/ysu6691/cocook)                |
-| Returnz        | 게임형 주식 교육 서비스                          | [github](https://github.com/ManduTheCat/returnz)           |
-| OMM            | 블록체인 기반 소개팅 웹 사이트💖                 | [github](https://github.com/208Youth/OMM)                  |
-| 모이다         | 야생동물과의 상생을 위한 기부를 받고 봉사를 신청 | [github](https://github.com/congmaru/Moida)                |
-| 러밋           | 함께 달리는 비대면 러닝 매칭 서비스              | [github](https://github.com/hojoJeong/Rumeet)              |
-| CAR-BORN       | 블록체인을 활용한 중고차 거래 플랫폼             | [github](https://github.com/22JH/car-born-project)         |
+| Title          | Description                                      | Link                                                                               |
+| -------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| 머무르다       | 행성과 장미꽃 nft p2p 서비스                     | [github](https://github.com/v7153623/Stay-in-your-B612), [site](https://b612.shop) |
+| 겜마카세       | 빅데이터를 기반으로 스팀 게임 추천 서비스        | [github](https://github.com/DooDoo3804/Gamemakase)                                 |
+| 디몽           | 아동 지능 발달을 위한 공룡 학습 어플리케이션     | [github](https://github.com/zer0eat/DiMong)                                        |
+| Bloomer        | 텍스트 기반 감정 분석 일기 서비스                | [github](https://github.com/bohodays/Bloomer)                                      |
+| TooNBTI        | 웹툰 취향 분석 테스트                            | [github](https://github.com/No88888888/ToonBTI)                                    |
+| Gotcha!        | 사진 1장으로 완성하는 AI 게임 서비스             | [github](https://github.com/GotchaAIGame/Gotcha)                                   |
+| doEng          | 인공지능을 통한 영어 체험학습                    | [github](https://github.com/Byongho96/doEng)                                       |
+| 술내음         | 사용자 맞춤 전통주 추천 서비스                   | [github](https://github.com/SSAFY707/SULNAEEUM)                                    |
+| Whizzle        | 개인 맞춤형 위스키 추천 서비스                   | [github](https://github.com/JunHyxxn/Whizzle)                                      |
+| TedBear        | TED 강연 영상 추천 서비스                        | [github](https://github.com/HMM-TERESTING/tedbear)                                 |
+| Whizzle        | 개인 맞춤형 위스키 추천 서비스                   | [github](https://github.com/JunHyxxn/Whizzle)                                      |
+| HE:RE          | NFT 헌혈증서 플랫폼                              | [github](https://github.com/Leeh9/HERE)                                            |
+| 똑켓           | 블록체인 NFT기반 티켓 서비스                     | [github](https://github.com/HyeonIn/ttocket)                                       |
+| Co-cook        | AI Cooking Copilot                               | [github](https://github.com/ysu6691/cocook)                                        |
+| 싸피물산       |                                                  | [github](https://github.com/Isak-toast/SSAFY-CNT)                                  |
+| O't MZ(옷엠지) | AI를 활용한 패션 스타일을 추천 서비스            | [github](https://github.com/ecofriendlyusername/ssafyotmz)                         |
+| Co-cook        | AI Cooking Copilot                               | [github](https://github.com/ysu6691/cocook)                                        |
+| Returnz        | 게임형 주식 교육 서비스                          | [github](https://github.com/ManduTheCat/returnz)                                   |
+| OMM            | 블록체인 기반 소개팅 웹 사이트💖                 | [github](https://github.com/208Youth/OMM)                                          |
+| 모이다         | 야생동물과의 상생을 위한 기부를 받고 봉사를 신청 | [github](https://github.com/congmaru/Moida)                                        |
+| 러밋           | 함께 달리는 비대면 러닝 매칭 서비스              | [github](https://github.com/hojoJeong/Rumeet)                                      |
+| CAR-BORN       | 블록체인을 활용한 중고차 거래 플랫폼             | [github](https://github.com/22JH/car-born-project)                                 |
 
 ### 그 외
+
 [나만의 아이돌 분석기](https://github.com/Lee-hanbin/peaK), [소셜 미디어 분석 서비스](https://github.com/kamoo2/TRENDFLOW)
 
 <p align="right">
@@ -154,7 +184,7 @@
 | ----------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Calm Wave   | Calm Wave                                     | [github](https://github.com/irang6v6/CALMWAVE)                                                                    |
 | MALICON     | MALICON                                       | [github](https://github.com/movebxeax/MyLittleConcert)                                                            |
-| 팡파레     | 일상을 축하하고 공유하는 소셜 플랫폼          | [github](https://github.com/nyong-nyong)                                                                          |
+| 팡파레      | 일상을 축하하고 공유하는 소셜 플랫폼          | [github](https://github.com/nyong-nyong)                                                                          |
 | Yuj         | Enhance your Yoga Experience                  | [github](https://github.com/uyk1/Yuj)                                                                             |
 | Etjude      | 우리 모두의 연기 연습 커뮤니티                | [github](https://github.com/rlawldud335/Etjude)                                                                   |
 | Mindder     | Mindder                                       | [github](https://github.com/min0731/Mindder)                                                                      |
@@ -171,6 +201,7 @@
 ### 그 외
 
 [Expandev](https://github.com/cloudsoswift/Expandev) , [Bundler](https://github.com/zer0eat/Bundler)
+
 <p align="right">
 <a href="#목차">
 목차로⏫
@@ -186,21 +217,21 @@
 
 ### 최우수 프로젝트🥇
 
-| Title         | Description                                                       | Link                                                              |
-| ------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| Run With Me ? 🏃️ |코스 추천, 기부, 채팅 및 커뮤니티를 활성화하여 게임같이 런닝을 즐길 수 있는 웹 / 앱                                   | [github](https://github.com/soohyun0907/RunWithMe) |
-| 🔵 MeetUp | SSAFY를 위한 미팅 일정 관리 서비스, 밋업을 소개합니다!                         | [github](https://github.com/M-TLD/MeetUp) |
+| Title             | Description                                                                         | Link                                               |
+| ----------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------- |
+| Run With Me ? 🏃️ | 코스 추천, 기부, 채팅 및 커뮤니티를 활성화하여 게임같이 런닝을 즐길 수 있는 웹 / 앱 | [github](https://github.com/soohyun0907/RunWithMe) |
+| 🔵 MeetUp         | SSAFY를 위한 미팅 일정 관리 서비스, 밋업을 소개합니다!                              | [github](https://github.com/M-TLD/MeetUp)          |
 
 ---
 
 ### 우수 프로젝트 🥈
 
-| Title    | Description                                            | Link                                                       |
-| -------- | ------------------------------------------------------ | ---------------------------------------------------------- |
-| BEEP  | 새로운 소통의 재미를 주기 위해 80~90년대 유행한 무선 호출기인 삐삐를 재해석해서 만든 애플리케이션 | [github](https://github.com/miso97o/Beep) |
-| 👁️ EyesOn  | 시각장애인 및 저시력자를 위한 보조 애플리케이션 | [github](https://github.com/sotteoksae/EyesOn) |
-| 마시멜로 일기  | Naver CLOVA Sentiment API를 활용한 감정 분석 일기 서비스 🍀 | [github](https://github.com/choiyy0523/SSAFY-7-MarshmallowDiary) |
-| BEEP  | 새로운 소통의 재미를 주기 위해 80~90년대 유행한 무선 호출기인 삐삐를 재해석해서 만든 애플리케이션 | [github](https://github.com/miso97o/Beep) |
+| Title         | Description                                                                                       | Link                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| BEEP          | 새로운 소통의 재미를 주기 위해 80~90년대 유행한 무선 호출기인 삐삐를 재해석해서 만든 애플리케이션 | [github](https://github.com/miso97o/Beep)                        |
+| 👁️ EyesOn     | 시각장애인 및 저시력자를 위한 보조 애플리케이션                                                   | [github](https://github.com/sotteoksae/EyesOn)                   |
+| 마시멜로 일기 | Naver CLOVA Sentiment API를 활용한 감정 분석 일기 서비스 🍀                                       | [github](https://github.com/choiyy0523/SSAFY-7-MarshmallowDiary) |
+| BEEP          | 새로운 소통의 재미를 주기 위해 80~90년대 유행한 무선 호출기인 삐삐를 재해석해서 만든 애플리케이션 | [github](https://github.com/miso97o/Beep)                        |
 
 <p align="right">
 <a href="#목차">
@@ -229,10 +260,10 @@
 
 ### 우수 프로젝트 🥈
 
-| Title    | Description                                            | Link                                                       |
-| -------- | ------------------------------------------------------ | ---------------------------------------------------------- |
-| 🔥 위기탈출 1.0.1  | VR로 구현한 지하철 화재 상황 탈출 시뮬레이션 | [github](https://github.com/yewon129/CrisisEscape101) |
-| H&P | 빅데이터 기반 운동&영양제 추천 페이지 | [github](https://github.com/Cheer-Together/Cheer-Together) |
+| Title             | Description                                  | Link                                                       |
+| ----------------- | -------------------------------------------- | ---------------------------------------------------------- |
+| 🔥 위기탈출 1.0.1 | VR로 구현한 지하철 화재 상황 탈출 시뮬레이션 | [github](https://github.com/yewon129/CrisisEscape101)      |
+| H&P               | 빅데이터 기반 운동&영양제 추천 페이지        | [github](https://github.com/Cheer-Together/Cheer-Together) |
 
 <p align="right">
 <a href="#목차">
@@ -270,8 +301,6 @@
 </a>
 </p>
 <br/><br/><br/><br/><br/>
-
-
 
 ## Contributing
 
